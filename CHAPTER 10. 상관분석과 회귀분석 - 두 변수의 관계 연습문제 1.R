@@ -47,4 +47,3 @@ x             2.2576     0.2007  11.248  3.5e-06 ***
 Residual standard error: 0.9605 on 8 degrees of freedom
 Multiple R-squared:  0.9405,	Adjusted R-squared:  0.9331 
 F-statistic: 126.5 on 1 and 8 DF,  p-value: 3.504e-06
-
